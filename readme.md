@@ -9,3 +9,4 @@ Intro to notebook based computing for the aap course. Includes
 
 To Do = Done
 
+Jupyter notebooks are terrific
